@@ -4,7 +4,7 @@ I'm Amber!
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning about how to make Storybook and NextJS play nice in an nx monorepo
 - 📫 How to reach me: contact@amberjoy.dev
-- ⚡ Fun fact: I used to be a professional field archaeologist and a competitive powerlifter!
+- ⚡ Fun fact: I used to be a professional field archaeologist and a competitive powerlifter! I still love lifting but probably won't compete anymore
 
 <!--
 **the-amber-joy/the-amber-joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
