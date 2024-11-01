@@ -2,7 +2,7 @@
 
 I'm Amber!
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning about how to make Storybook and NextJS play nice in an nx monorepo
+<!-- - 🌱 I’m currently learning... -->
 - 📫 How to reach me: contact@amberjoy.dev
 - ⚡ Fun fact: I used to be a professional field archaeologist and a competitive powerlifter! I still love lifting but probably won't compete anymore
 
