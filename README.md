@@ -3,7 +3,7 @@
 I'm Amber!
 - 😄 Pronouns: she/her
 - 📫 How to reach me: contact@amberjoy.dev
-- ⚡ Fun fact: I used to be a professional field archaeologist and a competitive powerlifter! I still love lifting but probably won't compete anymore
+- ⚡ Fun fact: I used to be a professional field archaeologist and a competitive powerlifter!
 
 <!-- - 🌱 I’m currently learning... -->
 <!--
